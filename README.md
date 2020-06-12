@@ -14,17 +14,7 @@ Results of each of these models are below.<br/>
 Run the evaluate notebook in evaluate directory using appropriate model and input-size for evaluation.<br/>
 Evaluation was done on the [nyutest_data](https://s3-eu-west-1.amazonaws.com/densedepth/nyu_test.zip) compiled in .npy format.<br/>
 Results obtained <br/>
-+------------------------------------------+-------------+--------+--------+--------+<br/>
-| Model                                    | epochs      | a1     | a2     | a3     |<br/>
-+------------------------------------------+-------------+--------+--------+--------+<br/>
-| Offical DenseNet(TF1.x and Multiple GPU) | 50 on 2 GPU | 0.8407 | 0.9721 | 0.9937 |<br/>
-+------------------------------------------+-------------+--------+--------+--------+<br/>
-| Our DenseNet169                          | 4           | 0.3276 | 0.6319 | 0.8283 |<br/>
-+------------------------------------------+-------------+--------+--------+--------+<br/>
-| Our MobileNetV2                          | 6           | 0.4022 | 0.7135 | 0.8800 |<br/>
-+------------------------------------------+-------------+--------+--------+--------+<br/>
-| Our EfficientNetB0                       | 6           | 0.3339 | 0.6327 | 0.8250 |<br/>
-+------------------------------------------+-------------+--------+--------+--------+<br/>
+![results](https://github.com/sivadatta-ss20/3D-image-understanding-Construction/blob/master/results/results.png)
 Work is based on [High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/abs/1812.11941)<br/>
 by Ibraheem Alhashim and Peter Wonka<br/>
 

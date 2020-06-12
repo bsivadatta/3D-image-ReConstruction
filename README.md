@@ -11,4 +11,6 @@ Pretrained models are available at:
 [Models I trained](https://drive.google.com/drive/folders/1C88ENnOCOi_5eeusYJcFNieDSWYgawCk?usp=sharing)
 
 
-
+Work is based on 
+High Quality Monocular Depth Estimation via Transfer Learning (arXiv 2018) [https://arxiv.org/abs/1812.11941]
+Ibraheem Alhashim and Peter Wonka

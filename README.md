@@ -15,6 +15,6 @@ Work is based on
 High Quality Monocular Depth Estimation via Transfer Learning (arXiv 2018) [https://arxiv.org/abs/1812.11941]
 Ibraheem Alhashim and Peter Wonka
 
-**3D from rgb and depth**
+## 3D from rgb and depth
 Run either of the notebooks in the 3D Reconstruction directory (one uses o3d and is faster, other is slow and customisable and doesnot require any external library)
-
+Point clouds generated can be downloaded and viewed using softwares like Meshlab

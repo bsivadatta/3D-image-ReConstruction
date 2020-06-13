@@ -15,6 +15,12 @@ Run the evaluate notebook in evaluate directory using appropriate model and inpu
 Evaluation was done on the [nyutest_data](https://s3-eu-west-1.amazonaws.com/densedepth/nyu_test.zip) compiled in .npy format.<br/>
 Results obtained <br/>
 ![results](https://github.com/sivadatta-ss20/3D-image-understanding-Construction/blob/master/results/results.png)
+**Sample output using our MobileNetV2 model on Tensorflow 2.x**
+Input RGB Image
+![rgb](https://github.com/sivadatta-ss20/3D-image-understanding-Construction/blob/master/results/rgb.png)
+Predicted DepthMap
+![depth](https://github.com/sivadatta-ss20/3D-image-understanding-Construction/blob/master/results/depth.png)
+
 Work is based on [High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/abs/1812.11941)<br/>
 by Ibraheem Alhashim and Peter Wonka<br/>
 

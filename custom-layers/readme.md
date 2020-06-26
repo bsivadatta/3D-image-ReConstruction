@@ -1,1 +1,1 @@
-This folder is required to run the notebook bts.ipynb
+- This folder is required to run the notebook bts.ipynb

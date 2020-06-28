@@ -32,6 +32,6 @@ by Ibraheem Alhashim and Peter Wonka<br/>
 - Point clouds generated can be downloaded and viewed using softwares like Meshlab
 
 
-**Clear instructions have been given in the o3d.ipynb notebook in the 3D reconstruction directory to generate 3D outputs from rgb after finishing the training**
+**Clear instructions have been given in notebooks in the 3D reconstruction directory to generate 3D outputs from rgb after finishing the training**
 
 An experimental implementation of the [Bts model](https://arxiv.org/abs/1907.10326) has also been added, which is highly based on https://github.com/cogaplex-bts/bts .

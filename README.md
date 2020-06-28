@@ -22,7 +22,7 @@ by Ibraheem Alhashim and Peter Wonka<br/>
 - Evaluation was done on the [nyutest_data](https://s3-eu-west-1.amazonaws.com/densedepth/nyu_test.zip) compiled in .npy format.<br/>
 
 - Results obtained <br/>
-![results](https://github.com/sivadatta-ss20/3D-image-understanding-Construction/blob/master/results/results.png)<br/>
+![results](https://github.com/bsivadatta/3D-image-ReConstruction/blob/master/results/results.jpg)<br/>
 
 **Sample outputs using our MobileNetV2 model on Tensorflow 2.x Have been shown clearly in the Demos Folder**
 

@@ -1,5 +1,6 @@
 # Depth Estimation and 3D Image Reconstruction
-[![Open In Colab](https://colab.research.google.com/github/bsivadatta/3D-image-ReConstruction/blob/master/Training.ipynb#scrollTo=M_19MwhRQWZZ)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsivadatta/3D-image-ReConstruction/blob/master/Training.ipynb)
+
 
 - Predicting the depth of the objects, construct 3D images from 2D images <br/>
 - Work is based on [High Quality Monocular Depth Estimation via Transfer Learning](https://arxiv.org/abs/1812.11941)<br/>

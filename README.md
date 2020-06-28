@@ -15,10 +15,11 @@ by Ibraheem Alhashim and Peter Wonka<br/>
 - Results of each of these models are below.<br/>
 - Run the evaluate notebook in evaluate directory using appropriate model and input-size for evaluation.<br/>
 - Evaluation was done on the [nyutest_data](https://s3-eu-west-1.amazonaws.com/densedepth/nyu_test.zip) compiled in .npy format.<br/>
+<!-- 
 - Results obtained <br/>
-![results](https://github.com/sivadatta-ss20/3D-image-understanding-Construction/blob/master/results/results.png)<br/>
+![results](https://github.com/sivadatta-ss20/3D-image-understanding-Construction/blob/master/results/results.png)<br/> -->
 
-**Sample output using our MobileNetV2 model on Tensorflow 2.x Have been shown clearly in the Demos Folder**
+**Sample outputs using our MobileNetV2 model on Tensorflow 2.x Have been shown clearly in the Demos Folder**
 
 
 ## 3D from rgb and depth

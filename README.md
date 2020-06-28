@@ -23,7 +23,7 @@ by Ibraheem Alhashim and Peter Wonka<br/>
 
 
 ## 3D from rgb and depth
-- Run either of the notebooks in the 3D Reconstruction directory (one uses o3d and is faster, other is slow and customisable and doesnot require any external library)
+- Run either of the notebooks in the 3D Reconstruction directory (refer 3D Reconstruction/readme.md for specifics of each notebook)
 - Point clouds generated can be downloaded and viewed using softwares like Meshlab
 
 ## Training 

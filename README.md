@@ -35,3 +35,25 @@ by Ibraheem Alhashim and Peter Wonka<br/>
 **Clear instructions have been given in notebooks in the 3D reconstruction directory to generate 3D outputs from rgb after finishing the training**
 
 An experimental implementation of the [Bts model](https://arxiv.org/abs/1907.10326) has also been added, which is highly based on https://github.com/cogaplex-bts/bts .
+
+
+## Demos
+**3D PointCloud** (Testset RGB to PointCloud)
+
+Input RGB image from test set - indoor.png <br/>
+![input](https://github.com/bsivadatta/3D-image-ReConstruction/blob/master/Demos/3D-demos/indoor.png)
+
+Output PointCloud <br/>
+![output](https://github.com/bsivadatta/3D-image-ReConstruction/blob/master/Demos/3D-demos/pointcloud.gif)<br/>
+
+**Video Depth**
+
+Prediction has been done on individual frames of the input video using the model based on mobilenetV2.
+![input](https://github.com/bsivadatta/3D-image-ReConstruction/blob/master/Demos/VideoDepth/input.gif)
+![output](https://github.com/bsivadatta/3D-image-ReConstruction/blob/master/Demos/VideoDepth/video_depth.gif)
+
+**DepthMap Prediction**
+
+The color rgb part of the picture is the Input RGB and the other half of the picture is our predicted depth map, Darker Pixels are closer.
+![1](https://github.com/bsivadatta/3D-image-ReConstruction/blob/master/Demos/DepthMaps/depth_map1.jpeg)
+
